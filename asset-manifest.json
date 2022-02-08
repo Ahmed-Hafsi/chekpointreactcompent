@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chekpointreactcompent/static/css/main.e6c13ad2.css",
+    "main.js": "/chekpointreactcompent/static/js/main.a4927dc0.js",
+    "static/js/787.c51d09f0.chunk.js": "/chekpointreactcompent/static/js/787.c51d09f0.chunk.js",
+    "static/media/ahmed.jpg": "/chekpointreactcompent/static/media/ahmed.bfdc5b2874b4cf85a509.jpg",
+    "static/media/ouchtata.jpg": "/chekpointreactcompent/static/media/ouchtata.1bbbb8cb0c017e80ff2d.jpg",
+    "index.html": "/chekpointreactcompent/index.html",
+    "main.e6c13ad2.css.map": "/chekpointreactcompent/static/css/main.e6c13ad2.css.map",
+    "main.a4927dc0.js.map": "/chekpointreactcompent/static/js/main.a4927dc0.js.map",
+    "787.c51d09f0.chunk.js.map": "/chekpointreactcompent/static/js/787.c51d09f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a4927dc0.js"
+  ]
+}
